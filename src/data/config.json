@@ -1,23 +1,38 @@
 {
-  "name": "Tu Nombre",
-  "profession": "Desarrollo web · Diseño digital",
-  "headline": "Hola, soy Tu Nombre. Construyo sitios y aplicaciones web funcionales, con atención al diseño y la accesibilidad.",
+  "name": "Edurne",
+  "profession": "Desarrolladora de software | Full Stack",
+  "headline": "Soy desarrolladora de software con 17 meses de experiencia profesional en D&A Innovative Systems. Trabajé principalmente en desarrollo backend con C++ y MySQL y también participé en el frontend con Vue.",
   "about": [
-    "Esta es una plantilla de portfolio para practicar desarrollo asistido por IA. Sustituye este párrafo por una presentación auténtica.",
-    "Explica qué estás aprendiendo, cuáles son tus intereses y qué aportas a tus proyectos. No es necesario inventar experiencia profesional."
+    "Soy desarrolladora de software con 17 meses de experiencia profesional en D&A Innovative Systems. Trabajé principalmente en desarrollo backend con C++ y MySQL y también participé en el frontend con Vue."
   ],
-  "location": "Tu ciudad",
+  "location": "",
   "skills": [
-    "HTML semántico",
-    "CSS y diseño responsive",
+    "C++",
+    "Python",
     "JavaScript",
-    "Git y GitHub",
-    "Accesibilidad web",
-    "Trabajo en equipo"
+    "SQL",
+    "HTML",
+    "CSS",
+    "React",
+    "Vue",
+    "Bootstrap",
+    "Sass",
+    "Node.js",
+    "Flask",
+    "MySQL",
+    "Formación en MongoDB",
+    "Nociones básicas de Oracle",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Análisis exploratorio de datos (EDA)",
+    "Git",
+    "Google Colab",
+    "Metodologías Agile y Scrum"
   ],
   "contact": {
-    "email": "info@enriqueteruel.com",
-    "github": "",
+    "email": "",
+    "github": "https://github.com/Shamanesss",
     "linkedin": "",
     "website": ""
   },
@@ -26,6 +41,6 @@
     "background": "#f4f2f0",
     "surface": "#e8e5e2",
     "text": "#111111",
-    "muted": "#77736f"
+    "muted": "#6b6763"
   }
 }

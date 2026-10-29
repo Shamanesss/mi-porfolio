@@ -2,6 +2,14 @@
 
 Todas las modificaciones notables de este proyecto se documentan en este archivo según la metodología [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 
+## [Unreleased]
+
+### Añadido
+- Estructura semántica y accesible para el portfolio de una sola página.
+- Renderizado dinámico del perfil, proyectos, competencias y enlaces desde los JSON de `src/data/`.
+- Menú móvil operable por teclado y diseño responsive con foco visible y movimiento reducido.
+- Datos del perfil de Edurne; proyectos ficticios retirados y estado vacío para la sección de proyectos.
+
 ## [1.1.0] - 2026-10-26
 
 ### Añadido
