@@ -19,6 +19,7 @@ Para que las revisiones sean precisas, este repositorio define herramientas en N
 
 Para ejecutar la comprobación directamente desde la terminal sin intermediación del asistente:
 
+
 ```bash
 npm run check
 ```
